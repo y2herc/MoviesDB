@@ -1,0 +1,28 @@
+<resources>
+   <string name="app_name">MoviesDB</string>
+   <string name="menuitem_edit">Edit</string>
+   <string name="menuitem_delete">Delete</string>
+   <string name="hint_name_required">Name (Required)</string>
+   <string name="hint_email">Director</string>
+   <string name="hint_phone">Year</string>
+   <string name="hint_street">Street</string>
+   <string name="hint_city">City</string>
+   <string name="hint_state">State</string>
+   <string name="hint_zip">Zip</string>
+   <string name="label_name">Name:</string>
+   <string name="label_director">Director:</string>
+   <string name="label_year">Year:</string>
+   <string name="confirm_title">Are You Sure?</string>
+   <string name="confirm_message">This will permanently delete the Movie</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="movie_added">Movie added successfully</string>
+   <string name="movie_not_added">Movie was not added due to an error</string>
+   <string name="movie_updated">Movie updated</string>
+   <string name="movie_not_updated">Movie was not updated due to an error</string>
+   <string name="invalid_query_uri">Invalid query Uri: </string>
+   <string name="invalid_insert_uri">Invalid insert Uri: </string>
+   <string name="invalid_update_uri">Invalid update Uri: </string>
+   <string name="invalid_delete_uri">Invalid delete Uri: </string>
+   <string name="insert_failed">Insert failed:</string>
+</resources>

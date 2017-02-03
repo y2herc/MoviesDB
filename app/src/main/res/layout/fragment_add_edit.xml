@@ -62,33 +62,7 @@
                android:inputType="textEmailAddress"/>
          </android.support.design.widget.TextInputLayout>
 
-         <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/streetTextInputLayout">
 
-         </android.support.design.widget.TextInputLayout>
-
-         <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/cityTextInputLayout">
-
-         </android.support.design.widget.TextInputLayout>
-
-         <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/stateTextInputLayout">
-
-         </android.support.design.widget.TextInputLayout>
-
-         <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/zipTextInputLayout">
-
-         </android.support.design.widget.TextInputLayout>
       </LinearLayout>
    </ScrollView>
 
